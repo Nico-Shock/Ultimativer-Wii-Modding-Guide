@@ -1,5 +1,10 @@
 # Ultimativer Wii Modding Guide
 
+## Updates
+
+- Ich versuche den Text noch anzupassen und andere zusätzliche nützliche Sachen hinzuzufügen.
+- wenn ich eine wii hätte könnte ich auch bilder hinzufügen (idk ob ich mir eine kaufen möchte)
+
 # Was ihr braucht
 
 1. Eine Wii (nicht die Wii Mini)
