@@ -3,7 +3,7 @@
 ## Updates
 
 - Ich versuche den Text noch anzupassen und andere zusätzliche nützliche Sachen hinzuzufügen.
-- wenn ich eine wii hätte könnte ich auch bilder hinzufügen (idk ob ich mir eine kaufen möchte)
+- wenn ich eine wii hätte könnte ich auch bilder hinzufügen (ich werde mir bestimmt irgentwann eine kaufen)
 
 # Was ihr braucht
 
