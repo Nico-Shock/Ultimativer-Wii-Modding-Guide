@@ -1,15 +1,10 @@
 # Ultimativer Wii Modding Guide
 
-## Updates
-
-- Ich versuche den Text noch anzupassen und andere zusätzliche nützliche Sachen hinzuzufügen.
-- wenn ich eine wii hätte könnte ich auch bilder hinzufügen (ich werde mir bestimmt irgentwann eine kaufen)
-
 # Was ihr braucht
 
 1. Eine Wii (nicht die Wii Mini)
-2. Eine SD-Karte (mindestens 4GB)
-3. Einen PC oder Laptop, um Daten auf der SD-Karte zu bearbeiten
+2. Eine SD Karte (mindestens 4GB)
+3. Einen PC oder Laptop, um Daten auf der SD Karte zu bearbeiten
 
 # SD Karten Vorbereitung
 
@@ -17,13 +12,13 @@
 
 1. Ladet euch [Fat32 Format](http://ridgecrop.co.uk/index.htm?guiformat.htm) herunter.
 2. Startet die "guiformat.exe".
-3. Wählt eure SD-Karte aus (z.B. "D:").
-4. Falls eure SD-Karte 32 GB oder mehr hat, wählt "32768" bei "allocated unit size" aus, damit eure Wii die SD-Karte erkennen kann. (Manche SD-Karten, insbesondere ältere, könnten trotzdem nicht erkannt werden, wenn sie größer als 32 GB sind.)
+3. Wählt eure SD Karte aus (z.B. "D:").
+4. Falls eure SD Karte 32 GB oder mehr hat, wählt "32768" bei "allocated unit size" aus, damit eure Wii die SD Karte erkennen kann. (Manche SD Karten, insbesondere ältere, könnten trotzdem nicht erkannt werden, wenn sie größer als 32 GB sind.)
 
 ## MacOS
 
 1. Startet das "Festplattendienstprogramm".
-2. Rechtsklickt auf die SD-Karte und wählt dann "Löschen" aus. Formatiert sie als Fat32 (es wird eventuell als "MS-DOS-Dateisystem" angezeigt).
+2. Rechtsklickt auf die SD Karte und wählt dann "Löschen" aus. Formatiert sie als Fat32 (es wird eventuell als "MS-DOS-Dateisystem" angezeigt).
 3. Wählt anschließend "Löschen".
 
 ## Linux
@@ -34,22 +29,22 @@
 
 # Wii Vorbereitung
 
-1. Gehe auf deiner Wii unten rechts im Home-Menü auf "Wii-Optionen".
-2. Wähle "Wii-Einstellungen".
+1. Gehe auf deiner Wii unten rechts im Home Menü auf "Wii Optionen".
+2. Wähle "Wii Einstellungen".
 3. Scrolle nach rechts auf "Internet".
-4. Gehe dann auf "Konsolen-Information".
-5. Merke dir die "MAC-Adresse" der Internetverbindung, die du gerade benutzt, und teile sie mit niemandem, dem du nicht vertraust.
-6. Packe die SD-Karte in deinen PC.
+4. Gehe dann auf "Konsolen Information".
+5. Merke dir die "MAC Adresse" der Internetverbindung, die du gerade benutzt, und teile sie mit niemandem, dem du nicht vertraust.
+6. Packe die SD Karte in deinen PC.
 
-# SD-Karten Setup
+# SD Karten Setup
 
 1. Gehe auf die Webseite von Letterbomb [letterbomb](https://please.hackmii.com/)
-2. Gib deine "MAC-Adresse" dort ein.
-3. Stelle sicher, dass deine Konsolen-Version stimmt (U: NTSC-U, E: PAL/Europäisch, J: Japanisch, K: Koreanisch).
+2. Gib deine "MAC Adresse" dort ein.
+3. Stelle sicher, dass deine Konsolen Version stimmt (U: NTSC-U, E: PAL/Europäisch, J: Japanisch, K: Koreanisch).
 4. Wähle dann die richtige Version aus und stelle sicher, dass der Haken bei `Bundle the HackMii Installer for me!` gesetzt ist.
 5. Klicke dann auf `Cut the red wire` oder `Cut the blue wire` (beide Optionen machen das Gleiche).
-6. Ziehe nun den `private`-Ordner und die `boot.elf`-Datei auf das Stammverzeichnis der SD-Karte.
-7. Packe die SD-Karte wieder in deine Wii.
+6. Ziehe nun den `private` Ordner und die `boot.elf` Datei auf das Stammverzeichnis der SD Karte.
+7. Packe die SD Karte wieder in deine Wii.
 
 # Payload Laden
 
