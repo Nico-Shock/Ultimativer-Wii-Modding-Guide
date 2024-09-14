@@ -33,12 +33,12 @@
 2. Wähle "Wii Einstellungen".
 3. Scrolle nach rechts auf "Internet".
 4. Gehe dann auf "Konsolen Information".
-5. Merke dir die "MAC Adresse" der Internetverbindung, die du gerade benutzt, und teile sie mit niemandem, dem du nicht vertraust.
+5. Merke dir die "MAC Adresse" der Internetverbindung, die du gerade benutzt, und teile sie mit niemandem.
 6. Packe die SD Karte in deinen PC.
 
 # SD Karten Setup
 
-1. Gehe auf die Webseite von Letterbomb [letterbomb](https://please.hackmii.com/)
+1. Gehe auf die Webseite von [Letterbomb](https://please.hackmii.com/).
 2. Gib deine "MAC Adresse" dort ein.
 3. Stelle sicher, dass deine Konsolen Version stimmt (U: NTSC-U, E: PAL/Europäisch, J: Japanisch, K: Koreanisch).
 4. Wähle dann die richtige Version aus und stelle sicher, dass der Haken bei `Bundle the HackMii Installer for me!` gesetzt ist.
