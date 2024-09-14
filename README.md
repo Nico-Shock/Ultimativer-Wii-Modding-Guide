@@ -40,7 +40,7 @@
 
 1. Gehe auf die Webseite von [Letterbomb](https://please.hackmii.com/).
 2. Gib deine "MAC Adresse" dort ein.
-3. Stelle sicher, dass deine Konsolen Version stimmt (U: NTSC-U, E: PAL/Europäisch, J: Japanisch, K: Koreanisch).
+3. Stelle sicher, dass deine Konsolen Version stimmt (U: USA, E: PAL/Europa, J: Japanisch, K: Koreanisch).
 4. Wähle dann die richtige Version aus und stelle sicher, dass der Haken bei `Bundle the HackMii Installer for me!` gesetzt ist.
 5. Klicke dann auf `Cut the red wire` oder `Cut the blue wire` (beide Optionen machen das Gleiche).
 6. Ziehe nun den `private` Ordner und die `boot.elf` Datei auf das Stammverzeichnis der SD Karte.
