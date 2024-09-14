@@ -42,7 +42,7 @@
 2. Gib deine "MAC Adresse" dort ein.
 3. Stelle sicher, dass deine Konsolen Version stimmt (U: USA, E: PAL/Europa, J: Japanisch, K: Koreanisch).
 4. Wähle dann die richtige Version aus und stelle sicher, dass der Haken bei `Bundle the HackMii Installer for me!` gesetzt ist.
-5. Klicke dann auf `Cut the red wire` oder `Cut the blue wire` (beide Optionen machen das Gleiche).
+5. Klicke dann auf `Cut the red wire` oder `Cut the blue wire` (beide Optionen laden euer Pack herunter).
 6. Ziehe nun den `private` Ordner und die `boot.elf` Datei auf das Stammverzeichnis der SD Karte.
 7. Packe die SD Karte wieder in deine Wii.
 
@@ -52,4 +52,4 @@
 2. Scrolle ein bisschen nach links und rechts, bis du einen Brief mit einer Bombe findest.
 3. Wähle den Brief mit der Bombe aus und warte.
 4. Im `HackMii Installer` wähle "Continue" aus und dann "Install the Homebrew Channel" und wähle "Yes, continue".
-5. Wähle dann "Continue" und dann "Exit", um in den Homebrew Launcher zu starten.
+5. Wähle dann "Continue" und dann "Exit", um in den Homebrew Launcher zu gelangen.
